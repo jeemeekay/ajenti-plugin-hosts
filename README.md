@@ -1,2 +1,4 @@
-# ajenti-plugin-hosts
-Ajenti Plugin for managing /etc/hosts 
+# Hosts plugin
+
+Manage the content of the file /etc/hosts.
+
